@@ -42,8 +42,8 @@ Welcome to **COSTUDY**, an interactive quiz app designed to test your knowledge 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/costudy-quiz-app.git
-   cd costudy-quiz-app
+   git clone https://github.com/Unrealrojo234/costudy
+   cd costudy
    ```
 
 2. **Install Dependencies**:
